@@ -1,9 +1,9 @@
-package orientacaoObjetos.applications;
+package POO.applications;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import orientacaoObjetos.entities.Rectangle;
+import POO.entities.Rectangle;
 
 public class exercicio01Rectangle {
 

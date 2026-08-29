@@ -1,4 +1,4 @@
-package orientacaoObjetos.entities;
+package POO.entities;
 
 public class CurrencyConverter {
 	

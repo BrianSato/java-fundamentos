@@ -1,9 +1,9 @@
-package orientacaoObjetos.applications;
+package POO.applications;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import orientacaoObjetos.entities.Employee;
+import POO.entities.Employee;
 
 public class exercicio02Employee {
 
