@@ -28,13 +28,6 @@ Os exercícios estão organizados por módulos, acompanhando a evolução do cur
 - Métodos
 - Classes e Objetos
 - Métodos estáticos
-
-### 🔄 Em andamento
-
-- Programação Orientada a Objetos (POO)
-
-### ⏳ Próximos módulos
-
 - Encapsulamento
 - Construtores
 - Sobrecarga
@@ -44,6 +37,13 @@ Os exercícios estão organizados por módulos, acompanhando a evolução do cur
 - Polimorfismo
 - Tratamento de exceções
 - Collections
+
+### 🔄 Em andamento
+
+- Programação Orientada a Objetos (POO)
+
+### ⏳ Próximos módulos
+
 - Generics
 - JDBC
 - JavaFX
