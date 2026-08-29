@@ -27,6 +27,7 @@ Os exercícios estão organizados por módulos, acompanhando a evolução do cur
 - Estruturas de repetição
 - Métodos
 - Classes e Objetos
+- Programação Orientada a Objetos (POO)
 - Métodos estáticos
 - Encapsulamento
 - Construtores
@@ -37,10 +38,6 @@ Os exercícios estão organizados por módulos, acompanhando a evolução do cur
 - Polimorfismo
 - Tratamento de exceções
 - Collections
-
-### 🔄 Em andamento
-
-- Programação Orientada a Objetos (POO)
 
 ### ⏳ Próximos módulos
 
